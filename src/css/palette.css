@@ -1,0 +1,17 @@
+.Palette {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+
+.Palette a {
+  width: 70px;
+  height: 70px;
+  border: 1px solid black;
+  border-radius: 4px;
+  text-decoration: none;
+  margin-left: 12px;
+  margin-right: 12px;
+}
